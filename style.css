@@ -1,5 +1,7 @@
 ﻿body {
-    background-color: #b0dfff;
+    background: radial-gradient(circle at bottom, navy 0, black 100%);
+    height: 100vh;
+    overflow: hidden;
 }
 
 h1 {
