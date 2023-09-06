@@ -5,7 +5,7 @@
 }
 
 h1 {
-    color: #8111d6;
+    color: #b3c7ff;
     text-align: center;
     font-family: 'Comic Sans MS';
 }
@@ -31,6 +31,18 @@ p {
     margin-left: auto;
     margin-right: auto;
     width: 1200px;
+    background-image: linear-gradient(to right, #ff8585, #ffc885, #fffabf, #bdffb3, #b3d9ff, #d4a6ff);
+    padding: 20px;
+    border: 5px solid;
+    border-color: #5c2978;
+    font-family: 'Comic Sans MS';
+    color: #5c2978;
+}
+
+#modbox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
     background-image: linear-gradient(to right, #ff8585, #ffc885, #fffabf, #bdffb3, #b3d9ff, #d4a6ff);
     padding: 20px;
     border: 5px solid;
@@ -75,6 +87,15 @@ p {
 .table2 {
     color: #51038c;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 30px;
+    font-family: 'Comic Sans MS';
+}
+
+.table3 {
+    color: #51038c;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
     border-spacing: 30px;
