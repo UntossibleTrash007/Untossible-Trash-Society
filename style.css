@@ -39,6 +39,18 @@ p {
     color: #5c2978;
 }
 
+#funny {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-image: linear-gradient(110deg, #d4feff, #d4ffd5);
+    padding: 20px;
+    border: 5px solid;
+    border-color: #5c2978;
+    font-family: 'Comic Sans MS';
+    color: #5c2978;
+}
+
 #p1 {
     background-color: #e396fc;
     padding: 20px;
