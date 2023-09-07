@@ -132,3 +132,43 @@ li {
         li a:hover {
             background-color: #0b3296;
         }
+
+#aroace {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+    height: 200px;
+    background-image: linear-gradient(35deg,#ff9a17,#fcba03,#fcfbfa,#5aa0cc,#012345);
+    font-family: 'Comic Sans MS';
+    color: #5c2978;
+}
+
+#trans {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+    height: 200px;
+    background-image: linear-gradient(35deg,#62cefc,#ffa3f7,#fcfbfa,#ffa3f7,#62cefc);
+    font-family: 'Comic Sans MS';
+    color: #5c2978;
+}
+
+#rainbow {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+    height: 200px;
+    background-image: linear-gradient(35deg, red,orange,yellow,green,blue,indigo,violet);
+    font-family: 'Comic Sans MS';
+    color: #5c2978;
+}
+
+#bi {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+    height: 200px;
+    background-image: linear-gradient(35deg, #bd007b, #983fa1, #35168a);
+    font-family: 'Comic Sans MS';
+    color: #5c2978;
+}
